@@ -126,7 +126,7 @@ function intervalIdentification(arr) {
 
     console.log (resultInterval);
     
-    //code for finding the note in ascending order
+    //code for finding the note in descending order
     }else if([arr[2] === "dsc"]){
 
     let newResultNoteArr = resultNoteArr.reverse();
