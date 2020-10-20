@@ -57,8 +57,7 @@ ___
 - Far Eastern Federal University
 stepik.org, Interactive SQL Trainer (2020)
 
-- KING'S COLLEGE LONDON
-King’s college London, digital skills: embracing digital technology (2020)
+- King’s college London, digital skills: embracing digital technology (2020)
 
 - Codecademy
 Lern PHP, PHP (2020)
