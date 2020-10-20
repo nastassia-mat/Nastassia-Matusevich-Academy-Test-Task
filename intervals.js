@@ -47,9 +47,9 @@ function intervalConstruction(arr) {
      return resultNote = resultNoteArr[indexFinalNote + 1];
    }
    if(resultNote[0] === "A" && (arr[0] === "m7" || arr[0] === "M7")){
-     return resultNote = resultNoteArr[indexFinalNote + 1];
+      return resultNote = resultNoteArr[indexFinalNote + 1];
    }
-   console.log (resultNote);
+      return resultNote;
 
   //code for finding the note in descending order
    }else if([arr[2] === "dsc"]){
@@ -124,7 +124,7 @@ function intervalIdentification(arr) {
       return ("Cannot identify the interval");
     }
 
-    console.log (resultInterval);
+    return resultInterval;
     
     //code for finding the note in descending order
     }else if([arr[2] === "dsc"]){
