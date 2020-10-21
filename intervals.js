@@ -51,7 +51,7 @@ function intervalIdentification(arr) {
 
     return ("Cannot identify the interval");
 
-    //code for finding the note in ascending order
+    //code for finding the interval in ascending order
     }else if (arr[2] !== "dsc"){
     
     let indexInterval = resultNoteArr.indexOf(arr[1]) - resultNoteArr.indexOf(arr[0]);
@@ -71,7 +71,7 @@ function intervalIdentification(arr) {
 
     return resultInterval;
     
-    //code for finding the note in descending order
+    //code for finding the interval in descending order
     }else if([arr[2] === "dsc"]){
 
     let newResultNoteArr = resultNoteArr.reverse();
