@@ -2,7 +2,7 @@
 
 <img src="https://sun9-37.userapi.com/c841134/v841134268/43621/snqPWKLys-Q.jpg" height="200" />
 
-## MNASTYWAV@GMAIL.COM
+# MNASTYWAV@GMAIL.COM
 **+375445132694**
 - [VK](https://vk.com/matusevna)
 - [in](https://www.linkedin.com/in/nastassia-matusevich-6587421b6/)
@@ -22,7 +22,7 @@ belpost.by/
 
 20.06.2019 - 31.06.2020
 
-Head of Liaison Office
+Head of the Post Office
 
 Duties:
 - Monitoring the implementation of targets, 
